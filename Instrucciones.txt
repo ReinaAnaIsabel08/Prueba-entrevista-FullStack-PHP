@@ -1,0 +1,3 @@
+Toda el proyecto se encuentra almacenado en el archivo zip
+solo se debe descomprimir para acceder a el. No posee ninguna
+contraseña.
